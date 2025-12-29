@@ -1,6 +1,7 @@
 # Administration-de-systemes-repartis
 
 **VERSION FRANCAIS**
+
 Ce projet automatise le déploiement d’une infrastructure hétérogène via Vagrant et Ansible (Infrastructure as Code). Il comprend une machine Ubuntu de contrôle, deux nœuds RedHat en cluster HA (Pacemaker/Corosync) avec Nginx/Samba derrière une VIP flottante, et un Windows Server piloté en WinRM (AD + hardening), avec les preuves et vérifications décrites dans le README
 
 ![shema darchitecture](https://github.com/user-attachments/assets/730de916-854b-4390-b372-f052ce1988b1)
@@ -108,6 +109,7 @@ Constat : réponse HTTP/1.1 200 OK et serveur nginx.
 
 
 **ENGLISH VERSION**
+
 This project automates the deployment of a small heterogeneous infrastructure using Vagrant and Ansible (Infrastructure as Code). It includes an Ubuntu control node, two RedHat nodes in a Pacemaker/Corosync HA cluster hosting Nginx and Samba behind a floating VIP, and a Windows Server managed via WinRM for AD/hardening, with security and validation steps documented in the README.
 
 **Mission 1 (Lab bootstrap)**
