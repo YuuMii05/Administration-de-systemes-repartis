@@ -212,4 +212,4 @@ Expected/observed: HTTP/1.1 200 OK and server nginx.
 <img width="942" height="425" alt="rendu 8 mission2" src="https://github.com/user-attachments/assets/b39bfe8b-b07c-4a22-9dad-82d743eaafd0" />
 
 Ce Mega TP est fait par :
-Maram BOUGOSSA et Damien CUBA
+Maram BOUGOSSA a 80% et Damien CUBA a 20%
