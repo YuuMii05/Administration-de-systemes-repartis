@@ -1,5 +1,5 @@
 # Administration-de-systemes-repartis
-**VERSION ANGLAIS**
+**ENGLISH VERSION**
 **Mission 1 (Lab bootstrap)**
 
 **Goal**
